@@ -45,4 +45,4 @@ We would like to express our gratitude to the following people and organizations
 - [Selene Chan](https://github.com/Serendipity3A06) for creating the UI, writing codes.
 - [CityU EE CCF](https://cityueegef.github.io/about/) for providing opportunities and resources.
 
-  We are super grateful for the support of the City University of Hong Kong, and for the contributions of everyone who has put in efforts to make this happen. 
+  We are super grateful for the support of the City University of Hong Kong, and for the contributions of everyone who has put in efforts to make this happen.
