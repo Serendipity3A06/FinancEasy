@@ -35,7 +35,7 @@ You can run the program by:
 2. download and open the `script.py` python file in your computer
 
 ## Credits
-- [Ivy Sham](https://github.com/ivysham888) _- Co-creater_
+- [Ivy Sham](https://github.com/ivysham888) _- Co-creator_
 - [Selene Chan](https://github.com/Serendipity3A06) _- Co-creator_
 
 ## Acknowledgments
@@ -45,4 +45,4 @@ We would like to express our gratitude to the following people and organizations
 - [Selene Chan](https://github.com/Serendipity3A06) for creating the UI, writing codes.
 - [CityU EE CCF](https://cityueegef.github.io/about/) for providing opportunities and resources.
 
-  We are super grateful for the support of the City University of Hong Kong, and for the contributions of everyone who has put in efforts to make this happen.
+  We are extremely grateful for the support of the City University of Hong Kong, and also for the contributions of mentors, TAs and everyone else who have helped us to make this project a reality.
