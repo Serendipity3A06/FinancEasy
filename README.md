@@ -30,7 +30,9 @@ To install the required packages for development, run the following command:
 ```pip3 install pyside6```
 
 ## Usage
-You can run the program by opening the `script.py` python file in your computer.
+You can run the program by:
+1. open the `src` folder
+2. download and open the `script.py` python file in your computer
 
 ## Credits
 - [Ivy Sham](https://github.com/ivysham888) _- Co-creater_
